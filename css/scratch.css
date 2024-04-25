@@ -1,0 +1,29 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: wavy;
+}
+
+.emphasizedText{
+    font-style: bold;
+}
+
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 10px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
